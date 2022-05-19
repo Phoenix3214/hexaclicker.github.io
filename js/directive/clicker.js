@@ -6,6 +6,13 @@ angular.module('HexaClicker')
             link: function link(scope, element, attrs) {
                 scope.onClick = function() {
                     scope.click();
+                    scope.click();
+                    scope.click();
+                    scope.click();
+                    scope.click();
+                    scope.click();
+                    scope.click();
+                    scope.click();
                 }
             }
         };
